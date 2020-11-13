@@ -41,8 +41,10 @@
   <div id="dyskografia">
     <div class="dyskografia-content">
       <p>
-      <h3> Lena Romul</h3>
-      <h5> <I>Instynktownie / Industrialnie (2013) Pegaz (2015)</I></h5>
+      <h1>Wydawnictwo</h1>
+      <h3>Lena Romul</h3>
+      <h5><I>Instynktownie / Industrialnie (2013)</I></h5>
+      <h5><I>Pegaz (2015)</I></h5>
       <br>
       <h6> CD + Digital </h6>
       <br>
@@ -69,8 +71,8 @@
   <div id="dyskografia">
     <div class="dyskografia-content">
       <p>
-      <h3>Multimedia</h3>
-      <h5>produkcja teledysków</h5>
+      <h1>Multimedia</h1>
+      <h4>produkcja teledysków</h4>
       <br>
       <div class="video-responsive">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/g2lpAicnatY" frameborder="20" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -84,7 +86,7 @@
         <hr>
       </div>
       <br>
-      <h5>produkcja studyjna</h5>
+      <h4>produkcja studyjna</h4>
       <br>
       <div class="video-responsive">
         <br>
@@ -94,7 +96,7 @@
         <hr>
       </div>
       <br>
-      <h5>kursy muzyczne</h5>
+      <h4>kursy muzyczne</h4>
       <br>
       <div class="video-responsive">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/19UUlxdt5qg" frameborder="20" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -91,7 +91,7 @@ background: darkgrey;
 #navbar ul li a:hover,
 #navbar ul li a.current {
   background: black;
-  color: lightblue;
+  color: #ffc0cb;
 }
 
 
@@ -134,7 +134,7 @@ background: darkgrey;
 /* Footer */
 #main-footer {
   text-align: center;
-  background: white;
+  background: #ffd9df;
   color: black;
   padding: 20px;
 
